@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ensiklopedia Hadits &amp; Sunnah</string>
+    <string name="header_subtitle">Kutubut Tis\'ah &amp; Panduan Sunnah Rasulullah ﷺ</string>
+    <string name="search_placeholder">Cari kata kunci, tema, perawi, atau No. Hadits…</string>
+    <string name="tab_beranda">Beranda</string>
+    <string name="tab_kitab">9 Imam &amp; Perawi</string>
+    <string name="tab_sunnah">Sunnah 24 Jam</string>
+    <string name="tab_favorit">Koleksi &amp; Catatan</string>
+    <string name="grade_all">Semua Derajat</string>
+    <string name="grade_shahih">Shahih</string>
+    <string name="grade_hasan">Hasan</string>
+    <string name="grade_dhaif">Dhaif</string>
+    <string name="grade_maudhu">Maudhu\'</string>
+    <string name="copy_hadith">Salin Hadits</string>
+    <string name="share_hadith">Bagikan</string>
+    <string name="bookmark_hadith">Simpan Koleksi</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Ensiklopedia Hadits & Sunnah",
+  "description": "Ensiklopedia lengkap Hadits Kutubut Tis'ah (9 Imam), panduan Sunnah Nabi 24 jam, filter derajat hadits (Shahih, Hasan, Dhaif, Maudhu), biografi perawi, dan pencarian cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
